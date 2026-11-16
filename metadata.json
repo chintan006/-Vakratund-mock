@@ -1,0 +1,6 @@
+{
+  "name": "ApexBank Prep — Banking Exam Mock Platform",
+  "description": "Enterprise administration and examination management platform for IBPS PO, SBI PO, RRB PO, IBPS Clerk, and SBI Clerk chapter tests and full-length mock examinations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
